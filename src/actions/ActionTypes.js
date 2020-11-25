@@ -1,0 +1,2 @@
+export const INITIAL_LOAD = 'INITIAL_LOAD';
+export const LOAD_EMPLOYEE_LIST = 'LOAD_EMPLOYEE_LIST';
